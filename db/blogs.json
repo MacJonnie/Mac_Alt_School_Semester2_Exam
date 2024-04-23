@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Becoming an A-Level musical artist",
+        "description": "A short blog post for your excitement",
+        "author": "Kelvin Issac",
+        "state": "Published",
+        "body": "A blog, short for weblog, is a frequently updated web page used for personal commentary or business content.",
+        "id": 1
+    },
+    {
+        "title": "Essence of belonging to a musical community",
+        "description": "A short blog post for your excitement",
+        "author": "Kelvin Issac",
+        "state": "Draft",
+        "body": "A blog, short for weblog, is a frequently updated web page used for personal commentary or business content.",
+        "id": 2
+    },
+    {
+        "title": "Getting certified as a musicologist",
+        "description": "A short blog post for your excitement",
+        "author": "Tasha Jobs",
+        "state": "Published",
+        "body": "A blog, short for weblog, is a frequently updated web page used for personal commentary or business content.",
+        "id": 3
+    },
+    {
+        "title": "The sound of music",
+        "description": "A short blog post for your excitement",
+        "author": "Mac Rollins",
+        "state": "Published",
+        "body": "A blog, short for weblog, is a frequently updated web page used for personal commentary or business content.",
+        "id": 4
+    },
+    {
+        "title": "10 facts about brass instruments",
+        "description": "A short blog post for your excitement",
+        "author": "Tasha Jobs",
+        "state": "Draft",
+        "body": "A blog, short for weblog, is a frequently updated web page used for personal commentary or business content.",
+        "id": 5
+    }
+]

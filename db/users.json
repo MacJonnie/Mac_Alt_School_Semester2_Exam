@@ -1,0 +1,24 @@
+[
+    {
+        "email": "kelvin123@gmail.com",
+        "firstName": "Kelvin",
+        "lastName": "Issac",
+        "password": "userPassword1",
+        "id": 1
+    },
+    {
+        "email": "tasha123@gmail.com",
+        "firstName": "Tasha",
+        "lastName": "Jobs",
+        "password": "userPassword2",
+        "id": 2
+    },
+    {
+        "email": "mac123@gmail.com",
+        "firstName": "Mac",
+        "lastName": "Rollins",
+        "password": "userPassword3",
+        "id": 3
+    }
+  
+]
