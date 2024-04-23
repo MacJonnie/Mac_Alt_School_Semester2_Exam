@@ -3,7 +3,6 @@ const express = require("express");
 const {connectToMongoDB} = require("./database/connection.db")
 const UsersRoute = require("./routes/user")
 const bodyParser = require("body-parser");
-const { requestHandler } = require("./test/utils/route_test");
 
 
 
@@ -24,9 +23,6 @@ app.use(express.urlencoded({
 app.use("/", UsersRoute)
 
 connectToMongoDB()
-
-
-app.use("/Blog", requestHandler);
 
 
 app.get("/", (req, res) =>{
